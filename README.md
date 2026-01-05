@@ -1,4 +1,4 @@
-# simagang_app
+# Aplikasi Mobile Flutter Absensi Magang Diskominfo Cilacap
 
 A new Flutter project.
 
